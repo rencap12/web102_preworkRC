@@ -3,6 +3,7 @@
 body {
     font-family: 'Cabin';
     background-color: #758190;
+    font-size: 25px;
 }
 
 #tentacles {
@@ -17,6 +18,14 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+}
+
+.header-text,
+h2,
+h3,
+button {
+    font-weight: bold;
+    font-size: 40px; 
 }
 
 .stats-container {
