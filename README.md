@@ -1,10 +1,10 @@
 # WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: Reneca Capuno
+Submitted by: **Reneca Capuno**
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 1.5 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -34,8 +34,8 @@ GIF created with ...
 
 ## Notes
 Some Challenges that I experienced are: 
-    * Remembering the syntax of arrow functions.
-    * Remembering the syntax of reduce().
+* Remembering the syntax of arrow functions.
+* Remembering the syntax of reduce().
 
 
 ## License
