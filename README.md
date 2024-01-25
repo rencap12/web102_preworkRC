@@ -33,8 +33,10 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+Some Challenges that I experienced are: 
+    * Remembering the syntax of arrow functions.
+    * Remembering the syntax of reduce().
 
-Describe any challenges encountered while building the app.
 
 ## License
 
