@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Made the font larger for titles, buttons, and all text.
+* [ ] Centered the text. 
 
 ## Video Walkthrough
 
