@@ -16,10 +16,8 @@ The following **required** functionality is completed:
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-* [ ] Made the font larger for titles, buttons, and all text.
-* [ ] Centered the text. 
+* [x] Made the font larger for titles, buttons, and all text.
+* [x] Centered the text. 
 
 ## Video Walkthrough
 
